@@ -1,5 +1,5 @@
 # Dotnet Core API com Docker
-Repositório exemplo API in dotnet core com docker
+Repositório exemplo API em Dotnet Core com docker
 
 # Build and run the Docker image
 1. Open a command prompt and navigate to your project folder.
